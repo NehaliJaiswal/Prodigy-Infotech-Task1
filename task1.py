@@ -8,4 +8,5 @@ plt.xlabel('Age')
 plt.ylabel('Frequency')
 plt.title('Distribution of Ages in Population')
 plt.grid(True)
+
 plt.show()
